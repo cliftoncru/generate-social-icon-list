@@ -52,59 +52,59 @@ window.function = function (linkedin, twitter, facebook, website, instagram, you
   let ms_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/kGe07Qg5m2NzxUKiptUf/pub/r21OIORoDpKuA16rTxqR.png";
   
   if (phone != "") {
-    ph_HTML = `<div class = "social-column"> \n \n <a href="tel:${phone}" target="blank"><img src="${ph_img}" width= "30" height = "30" ></a></div>`;
+    ph_HTML = `<div class = "social-column"> \n \n <a href="tel:${phone}" target="blank"><img src="${ph_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (message != "") {
-    ms_HTML = `<div class = "social-column"> \n \n <a href="sms://${message}" target="blank"><img src="${ms_img}" width= "30" height = "30" ></a></div>`;
+    ms_HTML = `<div class = "social-column"> \n \n <a href="sms://${message}" target="blank"><img src="${ms_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (yelp != "") {
-    ye_HTML = `<div class = "social-column"> \n \n <a href="${yelp}" target="blank"><img src="${ye_img}" width= "30" height = "30" ></a></div>`;
+    ye_HTML = `<div class = "social-column"> \n \n <a href="${yelp}" target="blank"><img src="${ye_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (telegram != "") {
-    tl_HTML = `<div class = "social-column"> \n \n <a href="${telegram}" target="blank"><img src="${tl_img}" width= "30" height = "30" ></a></div>`;
+    tl_HTML = `<div class = "social-column"> \n \n <a href="${telegram}" target="blank"><img src="${tl_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (linkedin != "") {
-    li_HTML = `<div class = "social-column"> \n \n <a href="${linkedin}" target="blank"><img src="${li_img}" width= "30" height = "30" ></a></div>`;
+    li_HTML = `<div class = "social-column"> \n \n <a href="${linkedin}" target="blank"><img src="${li_img}" width= "40" height = "40" ></a></div>`;
   }
 
   if (twitter != "") {
-    tw_HTML = `<div class = "social-column"> \n \n <a href="${twitter}" target="blank"><img src="${tw_img}" width= "30" height = "30" ></a></div>`;
+    tw_HTML = `<div class = "social-column"> \n \n <a href="${twitter}" target="blank"><img src="${tw_img}" width= "40" height = "40" ></a></div>`;
   }
 
   if (facebook != "") {
-    fb_HTML = `<div class = "social-column"> \n \n <a href="${facebook}" target="blank"><img src="${fb_img}" width= "30" height = "30" ></a></div>`;
+    fb_HTML = `<div class = "social-column"> \n \n <a href="${facebook}" target="blank"><img src="${fb_img}" width= "40" height = "40" ></a></div>`;
   }
 
    if (website != "") {
-    wb_HTML = `<div class = "social-column"> \n \n <a href="${website}" target="blank"><img src="${wb_img}" width= "30" height = "30" ></a></div>`;
+    wb_HTML = `<div class = "social-column"> \n \n <a href="${website}" target="blank"><img src="${wb_img}" width= "40" height = "40" ></a></div>`;
   } 
 
   if (instagram != "") {
-    in_HTML = `<div class = "social-column"> \n \n <a href="${instagram}" target="blank"><img src="${in_img}" width= "30" height = "30" ></a></div>`;
+    in_HTML = `<div class = "social-column"> \n \n <a href="${instagram}" target="blank"><img src="${in_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (youtube != "") {
-    yt_HTML = `<div class = "social-column"> \n \n <a href="${youtube}" target="blank"><img src="${yt_img}" width= "30" height = "30" ></a></div>`;
+    yt_HTML = `<div class = "social-column"> \n \n <a href="${youtube}" target="blank"><img src="${yt_img}" width= "40" height = "40" ></a></div>`;
   }
 
   if (email != "") {
-    em_HTML = `<div class = "social-column"> \n \n <a href="mailto:${email}" target="blank"><img src="${em_img}" width= "30" height = "30" ></a></div>`;
+    em_HTML = `<div class = "social-column"> \n \n <a href="mailto:${email}" target="blank"><img src="${em_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (whatsapp != "") {
-    ws_HTML = `<div class = "social-column"> \n \n <a href="${whatsapp}" target="blank"><img src="${ws_img}" width= "30" height = "30" ></a></div>`;
+    ws_HTML = `<div class = "social-column"> \n \n <a href="${whatsapp}" target="blank"><img src="${ws_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (pinterest != "") {
-    pi_HTML = `<div class = "social-column"> \n \n <a href="${pinterest}" target="blank"><img src="${pi_img}" width= "30" height = "30" ></a></div>`;
+    pi_HTML = `<div class = "social-column"> \n \n <a href="${pinterest}" target="blank"><img src="${pi_img}" width= "40" height = "40" ></a></div>`;
   }
     
   if (tiktok != "") {
-    tt_HTML = `<div class = "social-column"> \n \n <a href="${tiktok}" target="blank"><img src="${tt_img}" width= "30" height = "30" ></a></div>`;
+    tt_HTML = `<div class = "social-column"> \n \n <a href="${tiktok}" target="blank"><img src="${tt_img}" width= "40" height = "40" ></a></div>`;
   }
   
   let social_joined = [li_HTML, tw_HTML, fb_HTML, wb_HTML, in_HTML, yt_HTML, em_HTML, ws_HTML,pi_HTML,tt_HTML,tl_HTML,ye_HTML,ph_HTML,ms_HTML].filter(Boolean).join("\n \n ");
