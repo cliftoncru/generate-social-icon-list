@@ -38,8 +38,8 @@ window.function = function (linkedin, twitter, facebook, website, instagram, you
     //Image links
   let tl_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/kGe07Qg5m2NzxUKiptUf/pub/UBQEtHCGAaUCK6SmkKKI.png";
   let li_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Mr755ISwcRYn8zBd2L3z/pub/YPtpsMvhgMpWz75UGhmO.png";
-  let tw_img = "https://drive.google.com/file/d/1sJTfFZhYPjbrC3bFYUpz1WTB7MpGnjGV/view?usp=share_link";
-  let fb_img = "https://drive.google.com/file/d/1oe7GgGSMG3I01BNgmCE8LkItl8Wpx9hR/view?usp=share_link";
+  let tw_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/rC8buy6pfKg9vhy30p6s/pub/roh6Thz3ipZA8McQ7aSa.png";
+  let fb_img = "https://lh3.googleusercontent.com/u/0/drive-viewer/AJc5JmSivKcl_CH7VBAZNiKoKB-kDa0uapw75n6E9nJO4ZHwx2Y28_djTgzbLhQbUb_uiKwpkg4_432uqS4AmD9kW3ZYGWtvuQ=w1920-h947";
   let wb_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Mr755ISwcRYn8zBd2L3z/pub/AwbRCNrb6hjAR0t21DaF.png";
   let in_img = "https://drive.google.com/file/d/1v3wiAxkT7gtgvI_x5xbbgX_m2ZnFX5vx/view?usp=share_link";
   let yt_img = "https://drive.google.com/file/d/1akZa1tpW5bFCOCzsB6tmuc5ob2VuDRxp/view?usp=share_link";
