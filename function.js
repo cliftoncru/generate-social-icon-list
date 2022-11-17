@@ -120,8 +120,8 @@ window.function = function (linkedin, twitter, facebook, website, instagram, you
 \n }
 
 \n \n .social-column img {
-  \n width: 30px !important;
-  \n height: 30px !important;
+  \n width: 40px !important;
+  \n height: 40px !important;
 \n }
 
 \n \n .social-row {
