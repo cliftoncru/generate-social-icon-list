@@ -37,12 +37,12 @@ window.function = function (linkedin, twitter, facebook, website, instagram, you
     
     //Image links
   let tl_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/kGe07Qg5m2NzxUKiptUf/pub/UBQEtHCGAaUCK6SmkKKI.png";
-  let li_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Mr755ISwcRYn8zBd2L3z/pub/YPtpsMvhgMpWz75UGhmO.png";
+  let li_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/rC8buy6pfKg9vhy30p6s/pub/mlprFlccKCq1kS7TFRL7.png";
   let tw_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/rC8buy6pfKg9vhy30p6s/pub/roh6Thz3ipZA8McQ7aSa.png";
-  let fb_img = "https://lh3.googleusercontent.com/u/0/drive-viewer/AJc5JmSivKcl_CH7VBAZNiKoKB-kDa0uapw75n6E9nJO4ZHwx2Y28_djTgzbLhQbUb_uiKwpkg4_432uqS4AmD9kW3ZYGWtvuQ=w1920-h947";
-  let wb_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/Mr755ISwcRYn8zBd2L3z/pub/AwbRCNrb6hjAR0t21DaF.png";
+  let fb_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/rC8buy6pfKg9vhy30p6s/pub/dSRi37mjf6BXiEgj743r.png";
+  let wb_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/rC8buy6pfKg9vhy30p6s/pub/dz4gW1ihzohq5ced2hvU.png";
   let in_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/rC8buy6pfKg9vhy30p6s/pub/x5V25H9FCDnPj7G3xc3R.png";
-  let yt_img = "https://drive.google.com/file/d/1akZa1tpW5bFCOCzsB6tmuc5ob2VuDRxp/view?usp=share_link";
+  let yt_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/rC8buy6pfKg9vhy30p6s/pub/YQsjN1NgvHQuhjw4y3Dc.png";
   let em_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/kGe07Qg5m2NzxUKiptUf/pub/pbOlDrCcoqJUQSStog3U.png";
   let ws_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/ACcKtnFmkOOV7lsTHcV9/pub/tKpquLCJ9SpOEPWLuNV6.png";
   let pi_img = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/kGe07Qg5m2NzxUKiptUf/pub/aERzn549fzlrRK6IuaKk.png";
